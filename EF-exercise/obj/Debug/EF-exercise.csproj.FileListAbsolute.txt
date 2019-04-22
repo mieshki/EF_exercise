@@ -1,0 +1,12 @@
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EF-exercise.exe.config
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EF-exercise.exe
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EF-exercise.pdb
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EntityFramework.dll
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EntityFramework.xml
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\obj\Debug\EF-exercise.csprojAssemblyReference.cache
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\obj\Debug\EF-exercise.csproj.CoreCompileInputs.cache
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\obj\Debug\EF-exercise.csproj.CopyComplete
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\obj\Debug\EF-exercise.exe
+C:\Users\mdziadox\source\repos\EF-exercise\EF-exercise\obj\Debug\EF-exercise.pdb
